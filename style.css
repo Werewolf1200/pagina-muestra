@@ -1,14 +1,19 @@
 html {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+ h1, h2 {
+     font-weight: 400;
+     text-align: justify;
+ }
 header {
-    color: rgb(237, 150, 248);
+    color: rgb(255, 255, 255);
     background-color: darkred;
-    height: 600px;
-    width: 600px;
 }
 main{
     background-color: rgb(58, 5, 5);
-    color: rgb(230, 45, 199);
-    font-weight: 600;
+    color: rgb(253, 253, 253);
+    font-weight: 300;
+    height: 400px;
+    width: 100%;
+    text-align: center;
 }
