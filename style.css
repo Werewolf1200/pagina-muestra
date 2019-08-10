@@ -2,13 +2,13 @@ html {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 header {
-    color: aliceblue;
+    color: rgb(237, 150, 248);
     background-color: darkred;
     height: 600px;
     width: 600px;
 }
 main{
     background-color: rgb(58, 5, 5);
-    color: white;
+    color: rgb(230, 45, 199);
     font-weight: 600;
 }
